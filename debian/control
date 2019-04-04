@@ -1,7 +1,8 @@
 Source: lua5.3
 Section: interpreters
 Priority: optional
-Maintainer: Enrico Tassi <gareuselesinge@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Enrico Tassi <gareuselesinge@debian.org>
 Uploaders: Ondřej Surý <ondrej@debian.org>
 Build-Depends: debhelper (>= 9), quilt (>= 0.40), libtool-bin, libreadline-dev
 Standards-Version: 3.9.8

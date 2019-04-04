@@ -1,3 +1,11 @@
+lua5.3 (5.3.3-1ubuntu0.18.04.1) bionic-security; urgency=medium
+
+  * SECURITY UPDATE: use-after-free
+    - debian/patches/CVE-2019-6706.patch: fix in src/lapi.c.
+    - CVE-2019-6706
+
+ -- Leonidas S. Barbosa <leo.barbosa@canonical.com>  Thu, 04 Apr 2019 14:25:54 -0300
+
 lua5.3 (5.3.3-1) unstable; urgency=medium
 
   * Imported Upstream version 5.3.3
